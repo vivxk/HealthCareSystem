@@ -1,0 +1,6 @@
+projectKey=com.cg.healthcare:HealthCareSystem
+serverUrl=http://localhost:9000
+serverVersion=9.3.0.51899
+dashboardUrl=http://localhost:9000/dashboard?id=com.cg.healthcare%3AHealthCareSystem
+ceTaskId=AX_WTqKrDEzMP2DlRj1_
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AX_WTqKrDEzMP2DlRj1_
